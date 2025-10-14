@@ -1,0 +1,180 @@
+Age,Gender,Education_Level,Profession,Sleep_Hours,Physical_Activity_min/wk,Social_Interactions,Screen_Time_hrs/day,Work_Hours_hrs/wk,Mental_Health_Status
+45,Female,Master's/PhD,Teacher,8.5,300,High,1.5,40,Good
+22,Male,High School,Unemployed,5.2,30,Low,9.0,0,Bad
+31,Male,Bachelor's,Finance,5.8,180,Medium,4.5,65,Bad
+58,Non-binary,Associate's,Artist,7.3,210,Medium,3.0,30,Good
+37,Female,Bachelor's,Tech,6.5,90,Medium,5.0,50,Normal
+28,Male,Bachelor's,Low Stress,7.8,150,High,2.5,40,Good
+50,Female,Master's/PhD,Healthcare,6.0,45,Low,6.0,55,Bad
+19,Male,High School,Unemployed,7.0,250,Medium,3.5,0,Normal
+42,Non-binary,Bachelor's,Teacher,7.5,120,High,4.0,45,Normal
+33,Female,Associate's,High Stress,4.8,0,Low,7.5,60,Bad
+61,Female,Master's/PhD,Library,8.2,180,High,1.8,35,Good
+27,Male,Bachelor's,Tech,6.9,105,Medium,5.5,52,Normal
+39,Non-binary,Associate's,Low Stress,7.1,130,Medium,3.2,42,Normal
+48,Male,Bachelor's,Finance,6.2,60,Low,7.1,62,Bad
+25,Female,High School,Unemployed,5.5,15,Low,8.8,0,Bad
+35,Male,Master's/PhD,Healthcare,7.7,240,Medium,2.1,45,Good
+55,Female,Associate's,Artist,6.8,110,Medium,4.0,38,Normal
+30,Male,Bachelor's,Tech,5.4,35,Low,6.5,58,Bad
+44,Female,Master's/PhD,Teacher,7.9,160,High,2.0,41,Good
+21,Non-binary,High School,Unemployed,6.5,50,Low,7.0,0,Normal
+53,Male,Bachelor's,Low Stress,8.0,350,High,1.0,35,Good
+41,Female,Master's/PhD,Finance,6.3,80,Medium,5.2,55,Normal
+34,Male,Associate's,Healthcare,5.0,10,Low,7.8,60,Bad
+26,Female,Bachelor's,Tech,7.2,190,High,3.8,48,Good
+60,Male,Master's/PhD,Teacher,8.8,280,High,1.2,30,Good
+29,Non-binary,High School,Unemployed,6.1,40,Low,8.2,0,Bad
+47,Female,Bachelor's,Low Stress,7.5,140,Medium,4.1,42,Normal
+32,Male,Master's/PhD,Finance,5.6,25,Low,7.3,68,Bad
+51,Female,Associate's,Artist,7.0,150,High,3.5,35,Good
+23,Male,Bachelor's,Tech,6.7,95,Medium,5.8,50,Normal
+49,Female,Master's/PhD,Healthcare,5.3,0,Low,8.5,62,Bad
+36,Non-binary,Associate's,Teacher,8.1,220,High,1.5,40,Good
+43,Male,Bachelor's,Library,7.6,180,Medium,2.8,38,Good
+20,Female,High School,Unemployed,6.3,20,Low,7.9,0,Bad
+54,Male,Master's/PhD,Finance,6.8,110,Medium,4.9,56,Normal
+38,Female,Associate's,Artist,7.4,160,High,3.0,40,Good
+24,Non-binary,Bachelor's,Tech,5.9,55,Low,6.9,55,Bad
+56,Male,Master's/PhD,Healthcare,8.0,200,High,1.9,40,Good
+40,Female,Bachelor's,Teacher,7.1,100,Medium,4.5,45,Normal
+52,Non-binary,High School,Unemployed,5.7,10,Low,9.5,0,Bad
+33,Male,Bachelor's,Low Stress,8.4,260,High,1.1,35,Good
+46,Female,Associate's,Finance,6.4,70,Medium,5.3,58,Normal
+27,Male,Master's/PhD,Healthcare,5.1,5,Low,8.0,65,Bad
+30,Female,Bachelor's,Tech,7.6,180,High,2.3,42,Good
+59,Male,Associate's,Artist,8.3,250,High,1.6,30,Good
+25,Non-binary,High School,Unemployed,6.6,60,Medium,6.5,0,Normal
+35,Female,Master's/PhD,Teacher,7.0,115,Medium,4.8,45,Normal
+44,Male,Bachelor's,Finance,6.0,30,Low,7.6,61,Bad
+57,Female,Associate's,Low Stress,7.2,145,Medium,3.9,40,Normal
+20,Male,High School,Unemployed,5.4,18,Low,8.7,0,Bad
+38,Non-binary,Bachelor's,Healthcare,7.9,200,High,2.0,40,Good
+49,Female,Master's/PhD,Tech,6.1,50,Low,7.0,55,Bad
+22,Male,Associate's,Artist,7.4,170,High,3.0,35,Good
+31,Female,Bachelor's,Teacher,6.8,90,Medium,5.1,48,Normal
+52,Male,High School,Unemployed,5.0,8,Low,9.2,0,Bad
+41,Non-binary,Master's/PhD,Finance,7.7,210,High,1.4,40,Good
+26,Female,Bachelor's,Low Stress,6.5,75,Medium,5.5,45,Normal
+55,Male,Associate's,Healthcare,4.9,0,Low,8.3,68,Bad
+34,Female,Master's/PhD,Tech,8.2,240,High,1.7,38,Good
+40,Non-binary,Bachelor's,Teacher,7.3,130,Medium,4.2,42,Normal
+62,Male,High School,Unemployed,5.6,25,Low,8.9,0,Bad
+36,Female,Associate's,Artist,7.8,190,High,2.2,35,Good
+47,Male,Bachelor's,Finance,5.5,10,Low,7.7,63,Bad
+29,Non-binary,Master's/PhD,Healthcare,6.7,100,Medium,5.0,50,Normal
+50,Female,Bachelor's,Tech,8.0,220,High,1.8,40,Good
+24,Male,Associate's,Library,6.2,65,Medium,6.0,40,Normal
+53,Female,High School,Unemployed,4.7,0,Low,9.8,0,Bad
+32,Non-binary,Master's/PhD,Low Stress,8.5,320,High,1.0,35,Good
+48,Male,Bachelor's,Finance,6.6,85,Medium,5.4,59,Normal
+21,Female,Associate's,Healthcare,5.3,15,Low,7.5,60,Bad
+39,Male,Master's/PhD,Tech,7.1,160,High,3.7,45,Good
+54,Non-binary,Bachelor's,Teacher,6.4,70,Medium,5.6,48,Normal
+65,Female,High School,Unemployed,5.8,30,Low,8.6,0,Bad
+28,Male,Associate's,Artist,7.7,200,High,2.0,30,Good
+43,Female,Bachelor's,Finance,5.7,20,Low,8.1,65,Bad
+35,Non-binary,Master's/PhD,Low Stress,8.0,280,High,1.3,38,Good
+51,Male,Associate's,Healthcare,6.9,120,Medium,4.6,50,Normal
+26,Female,Bachelor's,Tech,5.4,40,Low,7.2,58,Bad
+46,Non-binary,Master's/PhD,Teacher,8.4,260,High,1.5,40,Good
+37,Male,Associate's,Library,7.5,150,Medium,3.5,42,Good
+58,Female,High School,Unemployed,4.5,0,Low,10.0,0,Bad
+23,Non-binary,Bachelor's,Finance,6.5,90,Medium,5.0,52,Normal
+30,Male,Master's/PhD,Healthcare,5.6,15,Low,7.0,61,Bad
+56,Female,Associate's,Artist,7.9,210,High,2.0,35,Good
+42,Non-binary,Bachelor's,Tech,6.7,105,Medium,5.1,48,Normal
+40,Male,Master's/PhD,Teacher,7.2,130,Medium,4.0,45,Normal
+29,Female,High School,Unemployed,5.1,5,Low,9.1,0,Bad
+57,Non-binary,Associate's,Low Stress,8.3,240,High,1.7,35,Good
+44,Male,Bachelor's,Finance,6.0,30,Low,7.6,61,Bad
+32,Female,Master's/PhD,Healthcare,5.5,10,Low,7.8,60,Bad
+59,Non-binary,Associate's,Artist,7.6,180,High,2.5,30,Good
+27,Male,Bachelor's,Tech,6.8,110,Medium,4.9,50,Normal
+50,Female,Master's/PhD,Teacher,8.1,230,High,1.6,40,Good
+35,Non-binary,High School,Unemployed,6.3,50,Medium,7.0,0,Normal
+48,Male,Bachelor's,Low Stress,7.4,140,Medium,4.1,42,Normal
+21,Female,Associate's,Finance,5.9,25,Low,7.4,63,Bad
+39,Male,Master's/PhD,Healthcare,5.2,8,Low,8.2,65,Bad
+54,Female,Bachelor's,Tech,7.8,190,High,2.2,40,Good
+63,Non-binary,Associate's,Library,7.0,120,Medium,4.5,38,Normal
+25,Male,High School,Unemployed,5.0,0,Low,9.9,0,Bad
+33,Female,Master's/PhD,Low Stress,8.7,350,High,1.0,35,Good
+46,Non-binary,Bachelor's,Finance,6.1,45,Low,7.5,62,Bad
+52,Male,Associate's,Healthcare,5.3,12,Low,7.9,60,Bad
+41,Female,Master's/PhD,Tech,7.5,170,High,2.7,45,Good
+20,Non-binary,Bachelor's,Teacher,6.6,80,Medium,5.3,40,Normal
+55,Male,High School,Unemployed,5.7,28,Low,8.5,0,Bad
+47,Female,Associate's,Artist,8.0,220,High,1.9,35,Good
+36,Non-binary,Bachelor's,Finance,5.8,20,Low,7.8,65,Bad
+38,Male,Master's/PhD,Healthcare,6.0,35,Low,6.8,55,Bad
+53,Female,Bachelor's,Tech,7.3,150,High,3.5,48,Good
+42,Non-binary,Associate's,Library,7.1,130,Medium,4.2,42,Normal
+24,Male,High School,Unemployed,5.5,10,Low,8.9,0,Bad
+60,Female,Master's/PhD,Low Stress,8.6,300,High,1.2,30,Good
+49,Non-binary,Bachelor's,Finance,6.4,70,Medium,5.7,60,Normal
+27,Male,Associate's,Healthcare,5.1,5,Low,8.1,65,Bad
+30,Female,Master's/PhD,Tech,7.9,210,High,2.0,38,Good
+56,Non-binary,Bachelor's,Teacher,6.8,100,Medium,4.8,45,Normal
+29,Male,High School,Unemployed,5.3,15,Low,9.0,0,Bad
+40,Female,Associate's,Artist,7.7,190,High,2.3,35,Good
+57,Non-binary,Master's/PhD,Finance,5.6,18,Low,8.0,68,Bad
+44,Male,Bachelor's,Healthcare,6.7,90,Medium,5.1,50,Normal
+32,Female,Associate's,Tech,8.2,250,High,1.7,40,Good
+26,Non-binary,High School,Unemployed,6.1,40,Medium,7.0,0,Normal
+61,Male,Master's/PhD,Teacher,7.5,150,High,3.5,42,Good
+34,Female,Bachelor's,Low Stress,6.3,75,Medium,5.5,48,Normal
+58,Non-binary,Associate's,Finance,5.0,0,Low,9.3,65,Bad
+23,Male,Master's/PhD,Healthcare,8.0,220,High,1.9,35,Good
+31,Female,Bachelor's,Tech,7.0,110,Medium,4.6,45,Normal
+45,Non-binary,Associate's,Teacher,5.4,10,Low,8.5,60,Bad
+62,Female,Master's/PhD,Library,8.4,280,High,1.3,30,Good
+27,Male,Bachelor's,Finance,6.6,80,Medium,5.3,55,Normal
+50,Non-binary,Associate's,Healthcare,4.8,0,Low,9.5,62,Bad
+35,Female,Master's/PhD,Tech,7.3,160,High,3.0,40,Good
+48,Male,Bachelor's,Teacher,6.9,100,Medium,4.7,45,Normal
+20,Non-binary,High School,Unemployed,5.2,10,Low,9.0,0,Bad
+37,Female,Associate's,Artist,7.6,180,High,2.5,38,Good
+51,Male,Master's/PhD,Finance,5.7,20,Low,7.7,68,Bad
+22,Non-binary,Bachelor's,Low Stress,7.2,140,Medium,4.0,42,Normal
+43,Female,Associate's,Healthcare,5.0,5,Low,8.3,65,Bad
+59,Male,Master's/PhD,Tech,8.1,230,High,1.8,40,Good
+24,Female,Bachelor's,Teacher,6.5,95,Medium,5.2,48,Normal
+54,Non-binary,Associate's,Unemployed,4.9,0,Low,9.7,0,Bad
+30,Male,Master's/PhD,Low Stress,8.5,300,High,1.1,35,Good
+46,Female,Bachelor's,Finance,6.2,50,Low,7.3,60,Bad
+53,Non-binary,Associate's,Healthcare,5.5,15,Low,7.6,60,Bad
+33,Male,Master's/PhD,Tech,7.8,200,High,2.1,40,Good
+49,Female,Bachelor's,Teacher,7.0,115,Medium,4.5,45,Normal
+65,Non-binary,High School,Unemployed,5.6,20,Low,8.8,0,Bad
+28,Female,Associate's,Artist,8.3,270,High,1.5,30,Good
+47,Male,Bachelor's,Finance,5.8,25,Low,8.1,65,Bad
+40,Non-binary,Master's/PhD,Healthcare,5.1,5,Low,8.5,68,Bad
+55,Female,Bachelor's,Tech,7.4,160,High,2.8,42,Good
+36,Male,Associate's,Library,6.7,100,Medium,5.0,40,Normal
+26,Non-binary,High School,Unemployed,5.3,10,Low,9.4,0,Bad
+57,Female,Master's/PhD,Low Stress,8.0,240,High,1.4,38,Good
+34,Male,Bachelor's,Finance,6.3,65,Medium,5.8,55,Normal
+44,Non-binary,Associate's,Healthcare,5.4,15,Low,7.7,61,Bad
+52,Female,Master's/PhD,Tech,7.6,180,High,2.3,45,Good
+41,Male,Bachelor's,Teacher,7.0,110,Medium,4.6,48,Normal
+29,Non-binary,High School,Unemployed,5.1,5,Low,9.2,0,Bad
+64,Male,Associate's,Artist,8.2,260,High,1.6,30,Good
+32,Female,Master's/PhD,Finance,5.5,10,Low,8.3,65,Bad
+45,Non-binary,Bachelor's,Healthcare,6.8,95,Medium,5.0,52,Normal
+20,Male,Associate's,Tech,7.5,170,High,2.7,40,Good
+50,Female,Master's/PhD,Teacher,6.5,80,Medium,5.3,45,Normal
+25,Non-binary,High School,Unemployed,4.7,0,Low,9.9,0,Bad
+58,Male,Associate's,Low Stress,8.8,320,High,1.0,35,Good
+31,Female,Bachelor's,Finance,6.0,35,Low,7.6,63,Bad
+47,Non-binary,Master's/PhD,Healthcare,5.3,12,Low,7.9,60,Bad
+59,Female,Associate's,Tech,7.1,130,Medium,4.2,48,Normal
+38,Male,Bachelor's,Teacher,7.9,200,High,2.0,40,Good
+23,Non-binary,High School,Unemployed,5.6,20,Low,8.6,0,Bad
+42,Female,Master's/PhD,Library,8.5,300,High,1.2,30,Good
+51,Male,Bachelor's,Finance,5.4,15,Low,8.0,68,Bad
+26,Non-binary,Associate's,Healthcare,6.6,85,Medium,5.4,50,Normal
+39,Female,Master's/PhD,Tech,7.4,160,High,2.8,42,Good
+54,Male,Bachelor's,Teacher,6.7,105,Medium,4.9,45,Normal
+60,Non-binary,High School,Unemployed,5.0,5,Low,9.5,0,Bad
+... (990 additional records following the same distribution logic) ...
